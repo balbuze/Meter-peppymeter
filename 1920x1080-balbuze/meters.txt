@@ -6,6 +6,7 @@ ui.refresh.period = 0.033
 bgr.filename = fluo-linear-bgr-1980.png
 fgr.filename = fluo-linear-fgr-1980.png
 indicator.filename = fluo-linear-indicator-1980v.png
+direction = bottom-top
 left.x = 40
 left.y = 40
 right.x = 980
