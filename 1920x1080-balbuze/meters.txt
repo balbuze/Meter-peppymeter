@@ -36,3 +36,65 @@ meter.x = 0
 meter.y = 0
 screen.bgr = 
 
+
+[blue-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = blue-bgr.png
+fgr.filename = 
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 214
+left.origin.x = 480
+left.origin.y = 820
+right.origin.x = 1440
+right.origin.y = 820
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+
+[orange-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = orange-bgr.png
+fgr.filename = 
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 214
+left.origin.x = 480
+left.origin.y = 820
+right.origin.x = 1440
+right.origin.y = 820
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+
+[green-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = green-bgr.png
+fgr.filename = 
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 214
+left.origin.x = 480
+left.origin.y = 820
+right.origin.x = 1440
+right.origin.y = 820
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
