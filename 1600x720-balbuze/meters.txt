@@ -4,7 +4,7 @@ meter.type = circular
 channels = 2
 ui.refresh.period = 0.033
 bgr.filename = blue-bgr.png
-fgr.filename = 
+fgr.filename = black-fgr.png
 indicator.filename = needle.png
 steps.per.degree = 2
 start.angle = 45
@@ -25,7 +25,7 @@ meter.type = circular
 channels = 2
 ui.refresh.period = 0.033
 bgr.filename = orange-bgr.png
-fgr.filename = 
+fgr.filename = black-fgr.png
 indicator.filename = needle.png
 steps.per.degree = 2
 start.angle = 45
@@ -46,7 +46,7 @@ meter.type = circular
 channels = 2
 ui.refresh.period = 0.033
 bgr.filename = green-bgr.png
-fgr.filename = 
+fgr.filename = black-fgr.png
 indicator.filename = needle.png
 steps.per.degree = 2
 start.angle = 45
@@ -59,4 +59,67 @@ right.origin.y = 590
 meter.x = 0
 meter.y = 0
 screen.bgr =
+
+
+
+[bw-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = bw-bgr.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 142
+left.origin.x = 400
+left.origin.y = 590
+right.origin.x = 1200
+right.origin.y = 590
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+[violet-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = green-bgr.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 142
+left.origin.x = 400
+left.origin.y = 590
+right.origin.x = 1200
+right.origin.y = 590
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+[gold-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = gold-bgr.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 142
+left.origin.x = 400
+left.origin.y = 590
+right.origin.x = 1200
+right.origin.y = 590
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
 
