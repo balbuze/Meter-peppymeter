@@ -1,5 +1,5 @@
 800x480-test.zip
 800x480-balbuze.zip
 1600x720-balbuze.zip
-1920x480-Gelo5 BASIC_521
+1920x480-Gelo5-BASIC_521
 1920x1080-balbuze.zip

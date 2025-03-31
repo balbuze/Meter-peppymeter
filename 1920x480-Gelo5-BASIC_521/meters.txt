@@ -1,0 +1,202 @@
+
+#------------------------01 Free-----------------------
+[01G5_Free BC]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Free_only_bgr.png
+fgr.filename = Free_only_fgr.png
+indicator.filename = Free_only_needle.png
+steps.per.degree = 4
+start.angle = 54
+stop.angle = -55
+distance = 230
+left.origin.x = 493
+left.origin.y = 470
+right.origin.x = 1445
+right.origin.y = 470
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#------------------------02 Accuphase-----------------------
+[02G5_Accuph A46 BC]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Accuphase_A46_only_bgr.png
+fgr.filename = Accuphase_A46_only_fgr.png
+indicator.filename = Accuphase_A46_only_needle.png
+steps.per.degree = 4
+start.angle = 49
+stop.angle = -49
+distance = 255
+left.origin.x = 489
+left.origin.y = 500
+right.origin.x = 1436
+right.origin.y = 500
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#------------------------03 BlackBlur-----------------------
+[03G5_BlackBlur BC]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = BlackBlur_Only_bgr.png
+fgr.filename = BlackBlur_Only_fgr.png
+indicator.filename = BlackBlur_Only_needle.png
+steps.per.degree = 4
+start.angle = 50
+stop.angle = -54
+distance = 320
+left.origin.x = 483
+left.origin.y = 570
+right.origin.x = 1439
+right.origin.y = 570
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#------------------------04 McIntosh-----------------------
+[04G5_McIntosh BC]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = McIntosh_only_bgr.png
+fgr.filename = McIntosh_only_fgr.png
+indicator.filename = McIntosh_only_needle.png
+steps.per.degree = 4
+start.angle = 49
+stop.angle = -51
+distance = 320
+left.origin.x = 482
+left.origin.y = 570
+right.origin.x = 1433
+right.origin.y = 570
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------05 KENWOOD REVERSE ONLY meters------------------------
+[05G5_Kenwood Rev ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Kenwood Rev_only_bgr.png
+fgr.filename = Kenwood Rev_only_fgr.png
+indicator.filename = Kenwood Rev_only_needle.png
+steps.per.degree = 4
+start.angle = -224
+stop.angle = -136
+distance = 290
+left.origin.x = 490
+left.origin.y = -70
+right.origin.x = 1443
+right.origin.y = -70
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------06 Namson Only ---------------------------
+[06G5_Namson Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Namson_only_bgr.png
+fgr.filename = Namson_only_fgr.png
+indicator.filename = Namson_only_needle.png
+steps.per.degree = 4
+start.angle = 42
+stop.angle = -46
+distance = 350
+left.origin.x = 459
+left.origin.y = 585
+right.origin.x = 1448
+right.origin.y = 585
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------07 NAIM ONLY meters---------------------------
+[07G5_Naim ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Naim_only_bgr.png
+fgr.filename = Naim_only_fgr.png
+indicator.filename = Naim_only_needle.png
+steps.per.degree = 4
+start.angle = 50
+stop.angle = -51
+distance = 210
+left.origin.x = 530
+left.origin.y = 480
+right.origin.x = 1394
+right.origin.y = 480
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------08 T+A 3000HV only---------------------------
+[08G5_T+A only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = T+A_only_bgr.png
+fgr.filename = T+A_only_fgr.png
+indicator.filename = T+A_only_needle.png
+steps.per.degree = 4
+start.angle = 48
+stop.angle = -51
+distance = 260
+left.origin.x = 504
+left.origin.y = 540
+right.origin.x = 1409
+right.origin.y = 540
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------09 Altec only---------------------------
+[09G5_Altec only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Altec_only2_bgr.png
+fgr.filename = Altec_only2_fgr.png
+indicator.filename = Altec_only2_needle.png
+steps.per.degree = 4
+start.angle = 49
+stop.angle = -50
+distance = 260
+left.origin.x = 471
+left.origin.y = 550
+right.origin.x = 1443
+right.origin.y = 550
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------10 TechnicsBlack only---------------------------
+[10G5_Technics Black only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Technics-Black Only_bgr.png
+fgr.filename = Technics-Black Only_fgr.png
+indicator.filename = Technics-Black Only_needle.png
+steps.per.degree = 4
+start.angle = 37
+stop.angle = -40
+distance = 300
+left.origin.x = 479
+left.origin.y = 550
+right.origin.x = 1445
+right.origin.y = 550
+meter.x =0
+meter.y = 0
+screen.bgr = 
