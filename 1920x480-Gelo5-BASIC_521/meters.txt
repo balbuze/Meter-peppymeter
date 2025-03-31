@@ -200,3 +200,202 @@ right.origin.y = 550
 meter.x =0
 meter.y = 0
 screen.bgr = 
+
+#-----------------------11 TECHNICS GOLD -------------------------
+[11G5_Technics Gold]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Technisc_Gold_only_bgr.png
+fgr.filename = Technisc_Gold_only_fgr.png
+indicator.filename = Technisc_Gold_only_needle.png
+steps.per.degree = 4
+start.angle = 44
+stop.angle = -47
+distance = 255
+left.origin.x = 498
+left.origin.y = 488
+right.origin.x = 1432
+right.origin.y = 488
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------12 Advance only---------------------------
+[12G5_Advance only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Advanc_EVO_only_bgr.png
+fgr.filename = 
+indicator.filename = Advanc_EVO_only_needle.png
+steps.per.degree = 4
+start.angle = 37
+stop.angle = -37
+distance = 330
+left.origin.x = 482
+left.origin.y = 595
+right.origin.x = 1438
+right.origin.y = 595
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------13 DORROUGH ---------------------------
+[13G5_Dorrough_only]
+meter.type = linear
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Dorrough_only_bgr.png
+indicator.filename = Dorrough_only_indica.png
+left.x = 110
+left.y = 150
+right.x = 1078
+right.y = 150       
+position.regular = 30
+position.overload = 10
+step.width.regular = 20
+step.width.overload = 20
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------14 BRIANWORKS-------------------------
+[14G5_Brianworks_only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Brianworks_only_bgr.png
+fgr.filename = Brianworks_only_fgr.png
+indicator.filename = Brianworks_only_needle.png
+steps.per.degree = 4
+start.angle = 56
+stop.angle = -58
+distance = 320
+left.origin.x = 465
+left.origin.y = 570
+right.origin.x = 1469
+right.origin.y = 570
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------15 KLANGHELM ---------------------------
+[15G5_Klanghelm_only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Klanghelm_only_bgr.png
+fgr.filename = Klanghelm_only_fgr.png
+indicator.filename = Klanghelm_only_needle.png
+steps.per.degree = 4
+start.angle = 48
+stop.angle = -50
+distance = 248
+left.origin.x = 497
+left.origin.y = 540
+right.origin.x = 1457
+right.origin.y = 540
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------16 OLD METER -------------------------
+[16G5_Old Meter_only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Old Meter_only_bgr.png
+fgr.filename = Old Meter_only_fgr.png
+indicator.filename = Old Meter_only_needle.png
+steps.per.degree = 4
+start.angle = 47
+stop.angle = -49
+distance = 220
+left.origin.x = 438
+left.origin.y = 490
+right.origin.x = 1506
+right.origin.y = 490
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------17 LUXMAN-------------------------
+[17G5_Luxman_only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Luxman_Only_bgr.png
+fgr.filename = Luxman_Only_fgr.png
+indicator.filename = Luxman_Only_needle.png
+steps.per.degree = 4
+start.angle = 45
+stop.angle = -45
+distance = 280
+left.origin.x = 470
+left.origin.y = 570
+right.origin.x = 1464
+right.origin.y = 570
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------18 HITACHI HMA7500 ------------------------
+[18G5_Hitachi7500_only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Hitachi_7500_only_bgr.png
+fgr.filename = Hitachi_7500_only_fgr.png
+indicator.filename = Hitachi_7500_only_needle.png
+steps.per.degree = 4
+start.angle = 46
+stop.angle = -46
+distance = 280
+left.origin.x = 494
+left.origin.y = 530
+right.origin.x = 1448
+right.origin.y = 530
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------19 NAD ONLY METERS-------------------------
+[19G5_NAD only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = NAD C3050_HD_only_bgr.png
+fgr.filename = NAD C3050_HD_only_fgr.png
+indicator.filename = NAD C3050_HD_only_needle.png
+steps.per.degree = 4
+start.angle = 40
+stop.angle = -41
+distance = 260
+left.origin.x = 513
+left.origin.y = 530
+right.origin.x = 1471
+right.origin.y = 530
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------20 DARK SPOTIFY -------------------------
+[20G5_DarkSpot_only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Dark Spotify_only_bgr.png
+fgr.filename = Dark Spotify_only_fgr.png
+indicator.filename = Dark Spotify_only_needle.png
+steps.per.degree = 4
+start.angle = 47
+stop.angle = -47
+distance = 180
+left.origin.x = 550
+left.origin.y = 470
+right.origin.x = 1373
+right.origin.y = 470
+meter.x = 0
+meter.y = 0
+screen.bgr = 
