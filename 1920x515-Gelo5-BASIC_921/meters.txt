@@ -1,0 +1,403 @@
+#-----------------------01 BlackBlur 515 ONLY METRES---------------------------
+[01G5_BlackBlur ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = BlackBlur_onlymeters_bgr.png
+fgr.filename = BlackBlur_onlymeters_fgr.png
+indicator.filename = BlackBlur_onlymeters_needle.png
+steps.per.degree = 4
+start.angle = 46
+stop.angle = -47
+distance = 420
+left.origin.x = 492
+left.origin.y = 660
+right.origin.x = 1448
+right.origin.y = 660
+meter.x =0
+meter.y = 0
+screen.bgr = BlackBlur515_Only.jpg
+
+#-----------------------02 NAIM 515 ONLY meters---------------------------
+[02G5_Naim ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Naim_515_ONLY_bgr.png
+fgr.filename = Naim_515_ONLY_fgr.png
+indicator.filename = Naim_515_ONLY_needle.png
+steps.per.degree = 4
+start.angle = 52
+stop.angle = -51
+distance = 210
+left.origin.x = 529
+left.origin.y = 480
+right.origin.x = 1384
+right.origin.y = 480
+meter.x =0
+meter.y = 0
+screen.bgr = Naim_515_ONLY.jpg
+
+#-----------------------03 SANSUI VERTICAL ONLY ---------------------------
+[03G5_Sansui Ver ONLY]
+meter.type = linear
+direction = bottom-top
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Sansui_Ver_Only_bgr.png
+indicator.filename = Sansui_Ver_Only_indica.png
+left.x = 236
+left.y = 94
+right.x = 1341
+right.y = 94       
+position.regular = 15
+step.width.regular = 27
+meter.x = 0
+meter.y = 0
+screen.bgr = Sansui_Ver_Only.jpg
+
+#-----------------------04 LUXMAN GOLD 515-------------------------
+[04G5_Luxman ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Luxman_515_Only_bgr.png
+fgr.filename = Luxman_515_Only_fgr.png
+indicator.filename = Luxman_515_Only_needle.png
+steps.per.degree = 4
+start.angle = 47
+stop.angle = -44
+distance = 280
+left.origin.x = 439
+left.origin.y = 570
+right.origin.x = 1493
+right.origin.y = 570
+meter.x = 0
+meter.y = 0
+screen.bgr = Luxman_515_Only.jpg
+
+#-----------------------05 ANGSTROM ONLY METERS-------------------------
+[05G5_Angstrom only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Angstrom_Meter_bgr.png
+fgr.filename = Angstrom_Meter_fgr.png
+indicator.filename = Angstrom_Meter_needle.png
+steps.per.degree = 4
+start.angle = 39
+stop.angle = -40
+distance = 400
+left.origin.x = 465
+left.origin.y = 660
+right.origin.x = 1454
+right.origin.y = 660
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------06 NAD ONLY METERS-------------------------
+[06G5_NAD only meters]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = NAD C3050_HD_ONLY_bgr.png
+fgr.filename = NAD C3050_HD_ONLY_fgr.png
+indicator.filename = NAD C3050_HD_ONLY_needle.png
+steps.per.degree = 4
+start.angle = 42
+stop.angle = -43
+distance = 260
+left.origin.x = 513
+left.origin.y = 530
+right.origin.x = 1471
+right.origin.y = 530
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------07 AUDIO RESERCH ONLY METERS-------------------------
+[07G5_Audio Research Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = AudioReserch 160S_ONLY_bgr.png
+fgr.filename = AudioReserch 160S_ONLY_fgr.png
+indicator.filename = AudioReserch 160S_ONLY_needle.png
+steps.per.degree = 4
+start.angle = 46
+stop.angle = -47
+distance = 180
+left.origin.x = 496
+left.origin.y = 390
+right.origin.x = 1437
+right.origin.y = 390
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------08 HITACHI HMA7500 515-------------------------
+[08G5_Hitachi7500 ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Hitachi_7500_ONLY_bgr.png
+fgr.filename = Hitachi_7500_ONLY_fgr.png
+indicator.filename = Hitachi_7500_ONLY_needle.png
+steps.per.degree = 4
+start.angle = 46
+stop.angle = -46
+distance = 280
+left.origin.x = 498
+left.origin.y = 520
+right.origin.x = 1452
+right.origin.y = 520
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------09 KENWOOD REVERSE ONLY meters------------------------
+[09G5_Kenwood Rev ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Kenwood Rev_515_ONLY_bgr.png
+fgr.filename = Kenwood Rev_515_ONLY_fgr.png
+indicator.filename = Kenwood Rev_515_ONLY_needle.png
+steps.per.degree = 4
+start.angle = -224
+stop.angle = -136
+distance = 290
+left.origin.x = 484
+left.origin.y = -70
+right.origin.x = 1449
+right.origin.y = -70
+meter.x = 0
+meter.y = 0
+screen.bgr = Kenwood Rev_515_ONLY.jpg
+
+#-----------------------10 DARK SPOTIFY ONLY METERS-------------------------
+[10G5_Dark Spot Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Dark Spotify515_bgr.png
+fgr.filename = Dark Spotify515_fgr.png
+indicator.filename = Dark Spotify515_needle.png
+steps.per.degree = 4
+start.angle = 49
+stop.angle = -49
+distance = 180
+left.origin.x = 550
+left.origin.y = 470
+right.origin.x = 1373
+right.origin.y = 470
+meter.x = 0
+meter.y = 0
+screen.bgr = Dark Spotify515.jpg
+
+
+#-----------------------11 DF202 ONLY METERS-------------------------
+[11G5_DF202 Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = DF202114_bgr.png
+fgr.filename = DF202114_fgr.png
+indicator.filename = DF202114_needle.png
+steps.per.degree = 4
+start.angle = 44
+stop.angle = -40
+distance = 300
+left.origin.x = 483
+left.origin.y = 580
+right.origin.x = 1443
+right.origin.y = 580
+meter.x = 0
+meter.y = 0
+screen.bgr = DF202114.jpg
+
+
+#-----------------------12 TONNICA 515 ---------------------------
+[12G5_Tonnica ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Tonnica_only_bgr.png
+fgr.filename = Tonnica_only_fgr.png
+indicator.filename = Tonnica_only_needle.png
+steps.per.degree = 4
+start.angle = 51
+stop.angle = -54
+distance = 210
+left.origin.x = 544
+left.origin.y = 470
+right.origin.x = 1332
+right.origin.y = 470
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------13 EHER ---------------------------
+[13G5_Eher ONLY]
+meter.type = linear
+channels = 2
+indicator.type = single
+ui.refresh.period = 0.033
+bgr.filename = EHER_only_bgr.png
+fgr.filename = EHER_only_fgr.png
+indicator.filename = EHER_only_NEEDLE.png
+left.x = 245
+left.y = 220
+right.x = 1209
+right.y = 220      
+position.regular = 227
+step.width.regular = 2
+screen.bgr = EHER_only.jpg
+
+#-----------------------14 Weston Only 515 ---------------------------
+[14G5_Weston ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Weston_bgr.png
+fgr.filename = Weston_fgr.png
+indicator.filename = Weston_needle.png
+steps.per.degree = 4
+start.angle = 57
+stop.angle = -56
+distance = 310
+left.origin.x = 491
+left.origin.y = 550
+right.origin.x = 1449
+right.origin.y = 550
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------15 SG Only 515 ---------------------------
+[15G5_SG ONLY]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = SG_bgr.png
+fgr.filename = SG_fgr.png
+indicator.filename = SG_needle.png
+steps.per.degree = 4
+start.angle = 56
+stop.angle = -58
+distance = 270
+left.origin.x = 474
+left.origin.y = 520
+right.origin.x = 1445
+right.origin.y = 520
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------16 Gemonti Only ---------------------------
+[16G5_Gemonti ONLY]
+meter.type = linear
+channels = 2
+indicator.type = single
+ui.refresh.period = 0.033
+bgr.filename = Gemonti2_bgr.png
+fgr.filename = Gemonti2_fgr.png
+indicator.filename = Gemonti2_needle.png
+left.x = 36
+left.y = 50
+right.x = 1004
+right.y = 50      
+position.regular = 280
+step.width.regular = 3
+screen.bgr = 
+
+#-----------------------17 Philmore Only  515 ---------------------------
+[17G5_Philmore Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Philmore_only_bgr.png
+fgr.filename = Philmore_only_fgr.png
+indicator.filename = Philmore_only_needle.png
+steps.per.degree = 4
+start.angle = 51
+stop.angle = -52
+distance = 220
+left.origin.x = 462
+left.origin.y = 500
+right.origin.x = 1436
+right.origin.y = 500
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------18 Namson Only  515 ---------------------------
+[18G5_Namson Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Namson Only_bgr.png
+fgr.filename = Namson Only_fgr.png
+indicator.filename = Namson Only_needle.png
+steps.per.degree = 4
+start.angle = 47
+stop.angle = -48
+distance = 350
+left.origin.x = 473
+left.origin.y = 570
+right.origin.x = 1458
+right.origin.y = 570
+meter.x =0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------19 NAKAMICHI REVERSE------------------------
+[19G5_Nakamichi only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Nakamichi700_bgr.png
+fgr.filename = Nakamichi700_fgr.png
+indicator.filename = Nakamichi700_needle.png
+steps.per.degree = 4
+start.angle = -228
+stop.angle = -135
+distance = 290
+left.origin.x = 507
+left.origin.y = -80
+right.origin.x = 1475
+right.origin.y = -80
+meter.x = 0
+meter.y = 0
+screen.bgr = Nakamichi700.jpg
+
+
+#------------------------20 McIntosh-----------------------
+[20G5_McIntosh BC]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = McIntosh_only_bgr.png
+fgr.filename = McIntosh_only_fgr.png
+indicator.filename = McIntosh_only_needle.png
+steps.per.degree = 4
+start.angle = 49
+stop.angle = -51
+distance = 320
+left.origin.x = 482
+left.origin.y = 590
+right.origin.x = 1433
+right.origin.y = 590
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+
+
+
