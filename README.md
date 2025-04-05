@@ -6,4 +6,6 @@ Collection of Meters to be used with the plugin. If you want to share your creat
 
 Respect namming convention widthxheight-name.zip ex: 1400x340-my spectrum.zip
 
+No space in name!
+
 See existing files!
