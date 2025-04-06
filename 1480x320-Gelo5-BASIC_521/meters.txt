@@ -1,0 +1,438 @@
+#-----------------------01 Alvin only-------------------------
+[01G5_Alvin only meters]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Alvin_320_bgr.png
+fgr.filename = Alvin_320_fgr.png
+indicator.filename = Alvin_320_needle.png
+steps.per.degree = 4
+start.angle = 72
+stop.angle = -72
+distance = 150
+left.origin.x = 349
+left.origin.y = 320
+right.origin.x = 1111
+right.origin.y = 320
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------02 Rudeer-------------------------
+[02G5_Rudeer Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Rudeer_bgr.png
+fgr.filename = Rudeer_fgr.png
+indicator.filename = Rudeer_needle.png
+steps.per.degree = 4
+start.angle = 59
+stop.angle = -59
+distance = 150
+left.origin.x = 370
+left.origin.y = 320
+right.origin.x = 1110
+right.origin.y = 320
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------03 Namson Only-------------------------
+[03G5_Namson]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Namson Only_bgr.png
+fgr.filename = Namson Only_fgr.png
+indicator.filename = Namson Only_needle.png
+steps.per.degree = 2
+start.angle = 47
+stop.angle = -48
+distance = 200
+left.origin.x = 315
+left.origin.y = 380
+right.origin.x = 1165
+right.origin.y = 380
+meter.x =0
+meter.y = 0
+screen.bgr = Namson Only.jpg
+
+#-----------------------04 HITACHI HMA7500-------------------------
+[04G5_Hitachi7500 Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Hitachi_7500_Only_bgr.png
+fgr.filename = Hitachi_7500_Only_fgr.png
+indicator.filename = Hitachi_7500_Only_needle.png
+steps.per.degree = 4
+start.angle = 35
+stop.angle = -35
+distance = 210
+left.origin.x = 302
+left.origin.y = 400
+right.origin.x = 1197
+right.origin.y = 400
+meter.x = 0
+meter.y = 0
+screen.bgr = Hitachi_7500_Only.jpg
+
+# --------------------- 05 Hartman -----------------------
+[05G5_Hartman Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Hartman_bgr.png
+fgr.filename = Hartman_fgr.png
+indicator.filename = Hartman_needle.png
+steps.per.degree = 3
+start.angle = 40
+stop.angle = -41
+distance = 215
+left.origin.x = 308
+left.origin.y = 420
+right.origin.x = 1181
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = Hartman.jpg
+
+# --------------------- 06 Accuphase Old -----------------------
+[06G5_Accuphase Old Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = AccuphaseOld_bgr.png
+fgr.filename = AccuphaseOld_fgr.png
+indicator.filename = AccuphaseOld_needle.png
+steps.per.degree = 3
+start.angle = 51
+stop.angle = -52
+distance = 250
+left.origin.x = 366
+left.origin.y = 425
+right.origin.x = 1100
+right.origin.y = 425
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+# ------------------- 07 ADVANCE X220 ONLY METERS -------
+
+[07G5_AdvanceX220_ONLY meters]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = AdvenX220_ONLY Met_1480_bgr.png
+fgr.filename = AdvenX220_ONLY Met_1480_fgr.png
+indicator.filename = AdvenX220_ONLY Met_1480_needle.png
+steps.per.degree = 3
+start.angle = 45
+stop.angle = -45
+distance = 240
+left.origin.x = 343
+left.origin.y = 385
+right.origin.x = 1131
+right.origin.y = 385
+meter.x = 0
+meter.y = 0
+screen.bgr = AdvenX220_ONLY Met_1480.jpg
+
+#-----------------------08 Lush only-------------------------
+[08G5_Lush Only]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Lush320_bgr.png
+fgr.filename = Lush320_fgr.png
+indicator.filename = Lush320_needle.png
+steps.per.degree = 4
+start.angle = 56
+stop.angle = -57
+distance = 80
+left.origin.x = 265
+left.origin.y = 270
+right.origin.x = 1229
+right.origin.y = 270
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+# ------------------- 09 SANSUI GREEN  -------
+[09G5_Sansui Green]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Sansui_Circul_bgr.png
+fgr.filename = Sansui_Circul_fgr.png
+indicator.filename = Sansui_Circul_needle.png
+steps.per.degree = 3
+start.angle = 45
+stop.angle = -42
+distance = 250
+left.origin.x = 381
+left.origin.y = 420
+right.origin.x = 1128
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = Sansui_Circul.jpg
+
+
+#-----------------------10 T+A 3000HV ---------------------------
+[10G5_T+A 3000HV]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = T+A 320_bgr.png
+fgr.filename = T+A 320_fgr.png
+indicator.filename = T+A 320_needle.png
+steps.per.degree = 2
+start.angle = 43
+stop.angle = -44
+distance = 200
+left.origin.x = 342
+left.origin.y = 360
+right.origin.x = 1141
+right.origin.y = 360
+meter.x =0
+meter.y = 0
+screen.bgr = T+A 320.jpg
+
+
+#-----------------------11 Gemonti--------------------------
+[11G5_Gemonti only meters]
+meter.type = linear
+channels = 2
+indicator.type = single
+ui.refresh.period = 0.033
+bgr.filename = Gemonti_1480_only_bgr.png
+fgr.filename = Gemonti_1480_only_fgr.png
+indicator.filename = Gemonti_1480_only_needle.png
+left.x = 54
+left.y = 55
+right.x = 795
+right.y = 55      
+position.regular = 210
+step.width.regular = 3
+screen.bgr = 
+
+#-----------------------12 Mountain REVERSE------------------------
+[12G5_Mountain only meters]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Moutain_bgr.png
+fgr.filename = Moutain_fgr.png
+indicator.filename = Moutain_needle.png
+steps.per.degree = 4
+start.angle = -230
+stop.angle = -134
+distance = 240
+left.origin.x = 375
+left.origin.y = -90
+right.origin.x = 1126
+right.origin.y = -90
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------13 Deviation-------------------------
+[13G5_Deviation]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Deviation_bgr.png
+fgr.filename = Deviation_fgr.png
+indicator.filename = Deviation_needle.png
+steps.per.degree = 4
+start.angle = 41
+stop.angle = -41
+distance = 240
+left.origin.x = 349
+left.origin.y = 420
+right.origin.x = 1144
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------14 Caltecc only-------------------------
+[14G5_Caltec only meters]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Caltecconly_bgr.png
+fgr.filename = Caltecconly_fgr.png
+indicator.filename = Caltecconly_needle.png
+steps.per.degree = 4
+start.angle = 50
+stop.angle = -50
+distance = 240
+left.origin.x = 370
+left.origin.y = 420
+right.origin.x = 1104
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------15 Caltecc red------------------------
+[15G5_CaltecRED]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = CaltecconlyRED_bgr.png
+fgr.filename = CaltecconlyRED_fgr.png
+indicator.filename = CaltecconlyRED_needle.png
+steps.per.degree = 4
+start.angle = 50
+stop.angle = -50
+distance = 240
+left.origin.x = 370
+left.origin.y = 420
+right.origin.x = 1104
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+# ------------------- 16 Peak -------
+[16G5_PeakLevel]
+meter.type = linear
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = PeakLevel_bgr.png
+indicator.filename = PeakLevel_indicat.png
+left.x = 69
+left.y = 170
+right.x = 800
+right.y = 170       
+position.regular = 9
+position.overload = 3
+step.width.regular = 51
+step.width.overload = 51
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------17 Signal-------------------------
+[17G5_Signal]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Signal_bgr.png
+fgr.filename = Signal_fgr.png
+indicator.filename = Signal_needle.png
+steps.per.degree = 4
+start.angle = 51
+stop.angle = -51
+distance = 240
+left.origin.x = 365
+left.origin.y = 420
+right.origin.x = 1105
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------18 SANSUI VERTICAL ---------------------------
+[18G5_Sansui Vertical]
+meter.type = linear
+direction = bottom-top
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Sansui_Ver_Only_bgr.png
+indicator.filename = Sansui_Ver_Only_indica.png
+left.x = 180
+left.y = 51
+right.x = 1042
+right.y = 51       
+position.regular = 15
+step.width.regular = 17
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------19 Denon ------------------------
+[19G5_Denon]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Denon_bgr.png
+fgr.filename = Denon_fgr.png
+indicator.filename = Denon_needle.png
+steps.per.degree = 4
+start.angle = 37
+stop.angle = -37
+distance = 240
+left.origin.x = 371
+left.origin.y = 420
+right.origin.x = 1119
+right.origin.y = 420
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------20 Yamaha------------------------
+[20G5_Yamaha]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Yamaha Met.png
+fgr.filename = Yamaha Met_fgr.png
+indicator.filename = Yamaha Met_needle.png
+steps.per.degree = 4
+start.angle = 41
+stop.angle = -43
+distance = 330
+left.origin.x = 366
+left.origin.y = 460
+right.origin.x = 1139
+right.origin.y = 460
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------21 Teletronix-------------------------
+[21G5_Teletronix]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Teletronix_bgr.png
+fgr.filename = Teletronix_fgr.png
+indicator.filename = Teletronix_needle.png
+steps.per.degree = 4
+start.angle = 63
+stop.angle = -65
+distance = 140
+left.origin.x = 374
+left.origin.y = 308
+right.origin.x = 1120
+right.origin.y = 308
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------22 TONNICA  ---------------------------
+[22G5_Tonnica]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Tonnica320_only_bgr.png
+fgr.filename = Tonnica320_only_fgr.png
+indicator.filename = Tonnica320_only_needle.png
+steps.per.degree = 2
+start.angle = 51
+stop.angle = -51
+distance = 170
+left.origin.x = 397
+left.origin.y = 350
+right.origin.x = 1053
+right.origin.y = 350
+meter.x =0
+meter.y = 0
+screen.bgr = Tonnica320_only.jpg
