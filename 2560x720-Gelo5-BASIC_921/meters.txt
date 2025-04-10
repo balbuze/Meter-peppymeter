@@ -1,0 +1,200 @@
+
+#-----------------------01 KENWOOD REVERSE------------------------
+[01G5_Kenwood Rev]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Kenwood Rev_bgr.png
+fgr.filename = Kenwood Rev_fgr.png
+indicator.filename = Kenwood Rev_needle.png
+steps.per.degree = 4
+start.angle = -220
+stop.angle = -136
+distance = 290
+left.origin.x = 662
+left.origin.y = -70
+right.origin.x = 1914
+right.origin.y = -70
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------02 NAIM GREEN-------------------------
+[02G5_Naim green]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Naim_bgr.png
+fgr.filename = Naim_fgr.png
+indicator.filename = Naim_needle.png
+steps.per.degree = 4
+start.angle = 48
+stop.angle = -48
+distance = 290
+left.origin.x = 662
+left.origin.y = 700
+right.origin.x = 1869
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------03 TECHNICS BLACK-------------------------
+[03G5_Technics_Black]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Technics_Black_bgr.png
+fgr.filename = Technics_Black_fgr.png
+indicator.filename = Technics_Black_needle.png
+steps.per.degree = 4
+start.angle = 37
+stop.angle = -38
+distance = 420
+left.origin.x = 648
+left.origin.y = 850
+right.origin.x = 1918
+right.origin.y = 850
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------04 SANSUI HORIZONTAL ---------------------------
+[04G5_Sansui Hor]
+meter.type = linear
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Sansui_bgr.png
+indicator.filename = Sansui_indic.png
+left.x = 767
+left.y = 86
+right.x = 767
+right.y = 443       
+position.regular = 46
+position.overload = 7
+step.width.regular = 32
+step.width.overload = 32
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------05 McIntosh-------------------------
+[05G5_McIntosh]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = McIntosh2_bgr.png
+fgr.filename = McIntosh2_fgr.png
+indicator.filename = McIntosh2_needle.png
+steps.per.degree = 4
+start.angle = 54
+stop.angle = -57
+distance = 290
+left.origin.x = 676
+left.origin.y = 700
+right.origin.x = 1876
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------06 Free-------------------------
+[06G5_Free]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Free_bgr.png
+fgr.filename = Free_fgr.png
+indicator.filename = Free_needle.png
+steps.per.degree = 4
+start.angle = 52
+stop.angle = -52
+distance = 230
+left.origin.x = 646
+left.origin.y = 660
+right.origin.x = 1926
+right.origin.y = 660
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+# --------------------- 07 ADVANCE -----------------------
+[07G5_Advence]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Advance_Blue.png
+fgr.filename = Advance_Blue_fgr.png
+indicator.filename = Advance_Blue_needle.png
+steps.per.degree = 3
+start.angle = 35
+stop.angle = -36
+distance = 490
+left.origin.x = 628
+left.origin.y = 830
+right.origin.x = 1928
+right.origin.y = 830
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+# --------------------- 08 Teletronix -----------------------
+[08G5_Teletronix]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Teletronix_bgr.png
+fgr.filename = Teletronix_fgr.png
+indicator.filename = Teletronix_needle.png
+steps.per.degree = 3
+start.angle = 41
+stop.angle = -44
+distance = 490
+left.origin.x = 600
+left.origin.y = 890
+right.origin.x = 1980
+right.origin.y = 890
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------09 NAD------------------------
+[09G5_NAD HD]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = NAD C3050_bgr.png
+fgr.filename = NAD C3050_fgr.png
+indicator.filename = NAD C3050_needle.png
+steps.per.degree = 4
+start.angle = 44
+stop.angle = -46
+distance = 290
+left.origin.x = 677
+left.origin.y = 700
+right.origin.x = 1954
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------10 Klanghelm-------------------------
+[10G5_Klanghelm]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Klanghelm_bgr.png
+fgr.filename = Klanghelm_fgr.png
+indicator.filename = Klanghelm_needle.png
+steps.per.degree = 4
+start.angle = 54
+stop.angle = -57
+distance = 290
+left.origin.x = 680
+left.origin.y = 750
+right.origin.x = 1914
+right.origin.y = 750
+meter.x = 0
+meter.y = 0
+screen.bgr = 
