@@ -1,0 +1,201 @@
+#-----------------------01 MCINTOSH HYBRID---------------------------
+[01G5_McIntosh Hybrid]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = McIntosh_hybrid_bgr.png
+fgr.filename = McIntosh_hybrid_fgr.png
+indicator.filename = McIntosh_hybrid_needle.png
+steps.per.degree = 4
+start.angle = 38
+stop.angle = -40
+distance = 300
+left.origin.x = 317
+left.origin.y = 750
+right.origin.x = 965
+right.origin.y = 750
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+#-----------------------02 NAIM---------------------------
+[02G5_Naim]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Naim_bgr.png
+fgr.filename = Naim_fgr.png
+indicator.filename = Naim_needle.png
+steps.per.degree = 4
+start.angle = 36
+stop.angle = -36
+distance = 300
+left.origin.x = 319
+left.origin.y = 750
+right.origin.x = 954
+right.origin.y = 750
+meter.x = 0
+meter.y = 0
+screen.bgr =  
+
+#-----------------------03 NAD HD---------------------------
+[03G5_NAD HD]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = NAD C3050_bgr.png
+fgr.filename = NAD C3050_fgr.png
+indicator.filename = NAD C3050_needle.png
+steps.per.degree = 4
+start.angle = 35
+stop.angle = -37
+distance = 200
+left.origin.x = 341
+left.origin.y = 540
+right.origin.x = 978
+right.origin.y = 540
+meter.x = 0
+meter.y = 0
+screen.bgr =  
+
+#-----------------------04 OLD METER ------------------------
+[04G5_Old braun]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Old_round_bgr.png
+fgr.filename = Old_round_fgr.png
+indicator.filename = Old_round_needle.png
+steps.per.degree = 4
+start.angle = 35
+stop.angle = -37
+distance = 270
+left.origin.x = 319
+left.origin.y = 640
+right.origin.x = 969
+right.origin.y = 640
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------05 BLUE SEE BLACK-------------------------
+[05G5_BlueSea_Black]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = BlueSea_bgr.png
+fgr.filename = BlueSea_fgr.png
+indicator.filename = BlueSea_needle.png
+steps.per.degree = 2
+left.start.angle = -90
+left.stop.angle = -0
+right.start.angle = 90
+right.stop.angle = 0
+distance = 210
+left.origin.x = 158
+left.origin.y = 545
+right.origin.x = 1118
+right.origin.y = 544
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------06 DARK SPOTIFY-------------------------
+[06G5_Dark Spotify]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Dark Spotify_bgr.png
+fgr.filename = Dark Spotify_fgr.png
+indicator.filename = Dark Spotify_needle.png
+steps.per.degree = 4
+start.angle = 45
+stop.angle = -45
+distance = 180
+left.origin.x = 340
+left.origin.y = 540
+right.origin.x = 941
+right.origin.y = 540
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------07 HARTMAN-------------------------
+[07G5_Hartman]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Hartman_bgr.png
+fgr.filename = Hartman_fgr.png
+indicator.filename = Hartman_needle.png
+steps.per.degree = 4
+start.angle = 37
+stop.angle = -39
+distance = 180
+left.origin.x = 323
+left.origin.y = 560
+right.origin.x = 961
+right.origin.y = 560
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------08 SIMENS-------------------------
+[08G5_Simens]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Simens_bgr.png
+fgr.filename = Simens_fgr.png
+indicator.filename = Simens_needle.png
+steps.per.degree = 4
+start.angle = 41
+stop.angle = -42
+distance = 230
+left.origin.x = 318
+left.origin.y = 550
+right.origin.x = 948
+right.origin.y = 550
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------09 SANSUI HORIZONTAL ---------------------------
+[09G5_Sansui]
+meter.type = linear
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Sansui_bgr.png
+indicator.filename = Sansui_indic.png
+left.x = 215
+left.y = 110
+right.x = 215
+right.y = 341       
+position.regular = 46
+position.overload = 7
+step.width.regular = 17
+step.width.overload = 18
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------10 DORROUGH VERTICAL-------------------------
+[10G5_Dorrough Vertical]
+meter.type = linear
+channels = 2
+direction = bottom-top
+ui.refresh.period = 0.033
+bgr.filename = Dorrought_bgr.png
+indicator.filename = Dorrought_indic.png
+left.x = 60
+left.y = 153
+right.x = 701
+right.y = 153       
+position.regular = 34
+position.overload = 5
+step.width.regular = 14
+step.width.overload = 15
+meter.x = 0
+meter.y = 0
+screen.bgr = 
