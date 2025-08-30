@@ -1,0 +1,138 @@
+
+[blue-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = blue.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+
+[orange-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = orange.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+[green-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = green.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+[gold-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = gold.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+[violet-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = violet.png
+fgr.filename = black-fgr.png
+indicator.filename = needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+[wblue-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = wblue.png
+fgr.filename = black-fgr.png
+indicator.filename = white-needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+
+[black-circ]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = black.png
+fgr.filename = black-fgr.png
+indicator.filename = white-needle.png
+steps.per.degree = 2
+start.angle = 45
+stop.angle = -46
+distance = 170
+left.origin.x = 480
+left.origin.y = 700
+right.origin.x = 1440
+right.origin.y = 700
+meter.x = 0
+meter.y = 0
+screen.bgr =
