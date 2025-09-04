@@ -1,0 +1,201 @@
+#-----------------------01 MCINTOSH HYBRID---------------------------
+[01G5_McIntosh Hybrid]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = McIntosh_hybrid_bgr.png
+fgr.filename = McIntosh_hybrid_fgr.png
+indicator.filename = McIntosh_hybrid_needle.png
+steps.per.degree = 4
+start.angle = 46
+stop.angle = -48
+distance = 300
+left.origin.x = 475
+left.origin.y = 620
+right.origin.x = 1448
+right.origin.y = 620
+meter.x = 0
+meter.y = 0
+screen.bgr =
+
+#-----------------------02 NAIM---------------------------
+[02G5_Naim]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Naim_bgr.png
+fgr.filename = Naim_fgr.png
+indicator.filename = Naim_needle.png
+steps.per.degree = 4
+start.angle = 42
+stop.angle = -42
+distance = 300
+left.origin.x = 480
+left.origin.y = 725
+right.origin.x = 1432
+right.origin.y = 725
+meter.x = 0
+meter.y = 0
+screen.bgr =  
+
+#-----------------------03 NAD HD---------------------------
+[03G5_NAD HD]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = NAD C3050_HD_bgr.png
+fgr.filename = NAD C3050_HD_fgr.png
+indicator.filename = NAD C3050_needle.png
+steps.per.degree = 4
+start.angle = 40
+stop.angle = -40
+distance = 300
+left.origin.x = 511
+left.origin.y = 725
+right.origin.x = 1467
+right.origin.y = 725
+meter.x = 0
+meter.y = 0
+screen.bgr =  
+
+#-----------------------04 OLD METER ------------------------
+[04G5_Old braun]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Old_round_bgr.png
+fgr.filename = Old_round_fgr.png
+indicator.filename = Old_round_needle.png
+steps.per.degree = 4
+start.angle = 45
+stop.angle = -45
+distance = 270
+left.origin.x = 483
+left.origin.y = 610
+right.origin.x = 1454
+right.origin.y = 610
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------05 DARK SPOTIFY-------------------------
+[05G5_Dark Spotify]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Dark Spotify_bgr.png
+fgr.filename = Dark Spotify_fgr.png
+indicator.filename = Dark Spotify_needle.png
+steps.per.degree = 4
+start.angle = 49
+stop.angle = -49
+distance = 180
+left.origin.x = 514
+left.origin.y = 505
+right.origin.x = 1412
+right.origin.y = 505
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------06 SANSUI HORIZONTAL ---------------------------
+[06G5_Sansui]
+meter.type = linear
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Sansui_bgr.png
+indicator.filename = Sansui_indic.png
+left.x = 322
+left.y = 107
+right.x = 322
+right.y = 451       
+position.regular = 46
+position.overload = 7
+step.width.regular = 26
+step.width.overload = 27
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------7 REHRINGER-------------------------
+[07G5_Rehringer]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Rehringer_bgr.png
+fgr.filename = Rehringer_fgr.png
+indicator.filename = Rehringer_needle.png
+steps.per.degree = 4
+start.angle = 41
+stop.angle = -41
+distance = 200
+left.origin.x = 486
+left.origin.y = 590
+right.origin.x = 1448
+right.origin.y = 590
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+
+#-----------------------08 BERLANT-------------------------
+[08G5_Berlant]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Berlant_bgr.png
+fgr.filename = Berlant_fgr.png
+indicator.filename = Berlant_needle.png
+steps.per.degree = 4
+start.angle = 45
+stop.angle = -45
+distance = 250
+left.origin.x = 482
+left.origin.y = 680
+right.origin.x = 1440
+right.origin.y = 680
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+[09G5_Free]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Free_bgr.png
+fgr.filename = Free_fgr.png
+indicator.filename = Free_needle.png
+steps.per.degree = 4
+start.angle = 48
+stop.angle = -48
+distance = 255
+left.origin.x = 485
+left.origin.y = 600
+right.origin.x = 1443
+right.origin.y = 600
+meter.x = 0
+meter.y = 0
+screen.bgr = 
+
+#-----------------------10 KENWOOD REVERSE------------------------
+[10G5_Kenwood Reverse]
+meter.type = circular
+channels = 2
+ui.refresh.period = 0.033
+bgr.filename = Kenwood Rev_bgr.png
+fgr.filename = Kenwood Rev_fgr.png
+indicator.filename = Kenwood OLD_needle.png
+steps.per.degree = 4
+start.angle = -227
+stop.angle = -133
+distance = 290
+left.origin.x = 480
+left.origin.y = 200
+right.origin.x = 1452
+right.origin.y = 200
+meter.x = 0
+meter.y = 0
+screen.bgr = 

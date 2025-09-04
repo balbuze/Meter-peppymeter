@@ -8,6 +8,7 @@
 1920x480-Gelo5-BASIC_521.zip
 1920x515-Gelo5-BASIC_921.zip
 1920x720-balbuze.zip
+1920x720-Gelo5-BASIC_721.zip
 1920x1080-Gelo5-BASIC_721.zip
 1920x1080-balbuze.zip
 2560x720-Gelo5-BASIC_921.zip
